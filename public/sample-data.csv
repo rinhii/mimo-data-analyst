@@ -1,0 +1,109 @@
+order_date,product,category,region,unit_price,quantity,customer_age,customer_segment,discount
+2025-01-03,Smartphone X,Electronics,North,699.00,2,28,New,0.05
+2025-01-04,Bluetooth Speaker,Electronics,South,49.99,5,34,Returning,0.0
+2025-01-05,Running Shoes,Sports,West,89.50,1,22,New,0.1
+2025-01-06,Yoga Mat,Sports,East,29.90,3,41,Returning,0.0
+2025-01-07,Smartphone X,Electronics,North,699.00,1,52,VIP,0.15
+2025-01-08,Cookware Set,Home,West,129.00,1,36,Returning,0.0
+2025-01-09,Smartwatch Pro,Electronics,North,249.00,2,29,New,0.05
+2025-01-10,Desk Lamp,Home,South,39.95,4,47,Returning,0.0
+2025-01-11,Running Shoes,Sports,West,89.50,2,26,New,0.1
+2025-01-12,Bluetooth Speaker,Electronics,East,49.99,3,31,Returning,0.0
+2025-01-13,Smartphone X,Electronics,South,699.00,1,45,VIP,0.2
+2025-01-14,Yoga Mat,Sports,North,29.90,2,38,Returning,0.0
+2025-01-15,Backpack,Accessories,West,59.00,2,19,New,0.05
+2025-01-16,Cookware Set,Home,East,129.00,1,50,VIP,0.1
+2025-01-17,Smartwatch Pro,Electronics,North,249.00,1,33,Returning,0.0
+2025-01-18,Office Chair,Home,South,199.00,1,44,Returning,0.05
+2025-01-19,Running Shoes,Sports,East,89.50,3,24,New,0.1
+2025-01-20,Headphones Max,Electronics,West,349.00,1,30,Returning,0.0
+2025-01-21,Smartphone X,Electronics,North,699.00,2,48,VIP,0.2
+2025-01-22,Backpack,Accessories,South,59.00,1,21,New,0.0
+2025-01-23,Yoga Mat,Sports,West,29.90,5,35,Returning,0.0
+2025-01-24,Desk Lamp,Home,East,39.95,2,42,Returning,0.0
+2025-01-25,Smartwatch Pro,Electronics,North,249.00,1,27,New,0.05
+2025-01-26,Bluetooth Speaker,Electronics,South,49.99,4,32,Returning,0.0
+2025-01-27,Cookware Set,Home,West,129.00,2,55,VIP,0.15
+2025-01-28,Headphones Max,Electronics,East,349.00,1,29,Returning,0.0
+2025-01-29,Running Shoes,Sports,North,89.50,1,23,New,0.1
+2025-01-30,Office Chair,Home,South,199.00,1,46,Returning,0.05
+2025-01-31,Smartphone X,Electronics,West,699.00,1,51,VIP,0.2
+2025-02-01,Backpack,Accessories,East,59.00,3,20,New,0.05
+2025-02-02,Yoga Mat,Sports,North,29.90,2,37,Returning,0.0
+2025-02-03,Smartwatch Pro,Electronics,South,249.00,2,28,New,0.05
+2025-02-04,Bluetooth Speaker,Electronics,West,49.99,6,33,Returning,0.0
+2025-02-05,Desk Lamp,Home,East,39.95,3,49,Returning,0.0
+2025-02-06,Running Shoes,Sports,North,89.50,2,25,New,0.1
+2025-02-07,Headphones Max,Electronics,South,349.00,1,31,Returning,0.05
+2025-02-08,Cookware Set,Home,West,129.00,1,40,Returning,0.0
+2025-02-09,Smartphone X,Electronics,East,699.00,2,53,VIP,0.2
+2025-02-10,Office Chair,Home,North,199.00,2,45,Returning,0.05
+2025-02-11,Backpack,Accessories,South,59.00,1,18,New,0.0
+2025-02-12,Yoga Mat,Sports,West,29.90,4,39,Returning,0.0
+2025-02-13,Smartwatch Pro,Electronics,East,249.00,1,26,New,0.05
+2025-02-14,Bluetooth Speaker,Electronics,North,49.99,5,34,Returning,0.0
+2025-02-15,Running Shoes,Sports,South,89.50,2,22,New,0.1
+2025-02-16,Headphones Max,Electronics,West,349.00,2,32,Returning,0.05
+2025-02-17,Cookware Set,Home,East,129.00,1,48,VIP,0.1
+2025-02-18,Smartphone X,Electronics,North,699.00,1,50,VIP,0.2
+2025-02-19,Desk Lamp,Home,South,39.95,5,43,Returning,0.0
+2025-02-20,Backpack,Accessories,West,59.00,2,21,New,0.05
+2025-02-21,Yoga Mat,Sports,East,29.90,3,36,Returning,0.0
+2025-02-22,Office Chair,Home,North,199.00,1,47,Returning,0.05
+2025-02-23,Smartwatch Pro,Electronics,South,249.00,2,30,Returning,0.0
+2025-02-24,Running Shoes,Sports,West,89.50,1,24,New,0.1
+2025-02-25,Bluetooth Speaker,Electronics,East,49.99,4,35,Returning,0.0
+2025-02-26,Smartphone X,Electronics,North,699.00,2,54,VIP,0.2
+2025-02-27,Cookware Set,Home,South,129.00,2,41,Returning,0.05
+2025-02-28,Headphones Max,Electronics,West,349.00,1,28,Returning,0.0
+2025-03-01,Desk Lamp,Home,East,39.95,2,44,Returning,0.0
+2025-03-02,Backpack,Accessories,North,59.00,3,19,New,0.05
+2025-03-03,Yoga Mat,Sports,South,29.90,4,38,Returning,0.0
+2025-03-04,Smartwatch Pro,Electronics,West,249.00,1,27,New,0.05
+2025-03-05,Running Shoes,Sports,East,89.50,2,23,New,0.1
+2025-03-06,Office Chair,Home,North,199.00,1,46,Returning,0.05
+2025-03-07,Smartphone X,Electronics,South,699.00,1,49,VIP,0.15
+2025-03-08,Bluetooth Speaker,Electronics,West,49.99,5,33,Returning,0.0
+2025-03-09,Cookware Set,Home,East,129.00,1,52,VIP,0.1
+2025-03-10,Headphones Max,Electronics,North,349.00,2,31,Returning,0.05
+2025-03-11,Backpack,Accessories,South,59.00,1,20,New,0.0
+2025-03-12,Yoga Mat,Sports,West,29.90,2,40,Returning,0.0
+2025-03-13,Desk Lamp,Home,East,39.95,4,45,Returning,0.0
+2025-03-14,Smartwatch Pro,Electronics,North,249.00,2,29,New,0.05
+2025-03-15,Running Shoes,Sports,South,89.50,3,25,New,0.1
+2025-03-16,Smartphone X,Electronics,West,699.00,2,51,VIP,0.2
+2025-03-17,Bluetooth Speaker,Electronics,East,49.99,3,34,Returning,0.0
+2025-03-18,Cookware Set,Home,North,129.00,1,42,Returning,0.05
+2025-03-19,Headphones Max,Electronics,South,349.00,1,32,Returning,0.0
+2025-03-20,Office Chair,Home,West,199.00,2,48,VIP,0.1
+2025-03-21,Backpack,Accessories,East,59.00,2,22,New,0.05
+2025-03-22,Yoga Mat,Sports,North,29.90,5,37,Returning,0.0
+2025-03-23,Desk Lamp,Home,South,39.95,3,43,Returning,0.0
+2025-03-24,Smartwatch Pro,Electronics,West,249.00,1,28,New,0.05
+2025-03-25,Running Shoes,Sports,East,89.50,2,24,New,0.1
+2025-03-26,Smartphone X,Electronics,North,699.00,1,50,VIP,0.2
+2025-03-27,Bluetooth Speaker,Electronics,South,49.99,4,35,Returning,0.0
+2025-03-28,Cookware Set,Home,West,129.00,2,47,Returning,0.05
+2025-03-29,Headphones Max,Electronics,East,349.00,1,30,Returning,0.0
+2025-03-30,Office Chair,Home,North,199.00,1,45,Returning,0.05
+2025-03-31,Smartphone X,Electronics,South,699.00,2,55,VIP,0.2
+2025-04-01,Backpack,Accessories,West,59.00,3,21,New,0.05
+2025-04-02,Yoga Mat,Sports,East,29.90,2,39,Returning,0.0
+2025-04-03,Smartwatch Pro,Electronics,North,249.00,2,26,New,0.05
+2025-04-04,Running Shoes,Sports,South,89.50,1,23,New,0.1
+2025-04-05,Bluetooth Speaker,Electronics,West,49.99,5,33,Returning,0.0
+2025-04-06,Cookware Set,Home,East,129.00,1,41,Returning,0.05
+2025-04-07,Headphones Max,Electronics,North,349.00,2,29,Returning,0.0
+2025-04-08,Desk Lamp,Home,South,39.95,4,44,Returning,0.0
+2025-04-09,Smartphone X,Electronics,West,699.00,1,52,VIP,0.2
+2025-04-10,Office Chair,Home,East,199.00,1,46,Returning,0.05
+2025-04-11,Backpack,Accessories,North,59.00,2,20,New,0.05
+2025-04-12,Yoga Mat,Sports,South,29.90,3,38,Returning,0.0
+2025-04-13,Running Shoes,Sports,West,89.50,2,25,New,0.1
+2025-04-14,Smartwatch Pro,Electronics,East,249.00,1,27,New,0.05
+2025-04-15,Bluetooth Speaker,Electronics,North,49.99,6,34,Returning,0.0
+2025-04-16,Cookware Set,Home,South,129.00,2,48,VIP,0.1
+2025-04-17,Smartphone X,Electronics,West,699.00,2,53,VIP,0.2
+2025-04-18,Headphones Max,Electronics,East,349.00,1,31,Returning,0.05
+2025-04-19,Desk Lamp,Home,North,39.95,2,42,Returning,0.0
+2025-04-20,Backpack,Accessories,South,59.00,1,19,New,0.0
