@@ -4,7 +4,9 @@ An autonomous **AI data analyst agent** built on top of **Xiaomi MiMo**. Upload 
 
 Built for the **Xiaomi MiMo Orbit 100T Token Creator Incentive Program** as a reference project showing how MiMo's reasoning + tool-calling can power a real, useful product.
 
-![stack](https://img.shields.io/badge/Next.js-14-black) ![stack](https://img.shields.io/badge/TypeScript-5-blue) ![stack](https://img.shields.io/badge/Xiaomi_MiMo-v2.5-orange)
+**🌐 Live demo: [mimo-data-analyst.netlify.app](https://mimo-data-analyst.netlify.app)** — click _"try the sample dataset"_ on the landing page and watch the agent work.
+
+![stack](https://img.shields.io/badge/Next.js-14-black) ![stack](https://img.shields.io/badge/TypeScript-5-blue) ![stack](https://img.shields.io/badge/Xiaomi_MiMo-v2.5-orange) ![stack](https://img.shields.io/badge/Deploy-Netlify-00C7B7)
 
 ---
 
